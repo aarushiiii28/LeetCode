@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aarushiiii28/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/aarushiiii28/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/aarushiiii28/LeetCode/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/aarushiiii28/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/aarushiiii28/LeetCode/tree/master/0118-pascals-triangle) |
 ## Hash Table
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aarushiiii28/LeetCode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/aarushiiii28/LeetCode/tree/master/0048-rotate-image) |
 ## String
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/aarushiiii28/LeetCode/tree/master/0118-pascals-triangle) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/aarushiiii28/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
