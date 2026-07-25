@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aarushiiii28/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/aarushiiii28/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/aarushiiii28/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/aarushiiii28/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/aarushiiii28/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aarushiiii28/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/aarushiiii28/LeetCode/tree/master/0148-sort-list) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/aarushiiii28/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/aarushiiii28/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/aarushiiii28/LeetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/aarushiiii28/LeetCode/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
