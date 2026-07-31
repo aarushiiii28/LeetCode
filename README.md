@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aarushiiii28/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/aarushiiii28/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/aarushiiii28/LeetCode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/aarushiiii28/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aarushiiii28/LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/aarushiiii28/LeetCode/tree/master/0118-pascals-triangle) |
 ## Hash Table
@@ -111,4 +112,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/aarushiiii28/LeetCode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/aarushiiii28/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/aarushiiii28/LeetCode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
