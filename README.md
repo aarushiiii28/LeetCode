@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/aarushiiii28/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aarushiiii28/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aarushiiii28/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/aarushiiii28/LeetCode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/aarushiiii28/LeetCode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/aarushiiii28/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/aarushiiii28/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aarushiiii28/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/aarushiiii28/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/aarushiiii28/LeetCode/tree/master/0125-valid-palindrome) |
+| [0402-remove-k-digits](https://github.com/aarushiiii28/LeetCode/tree/master/0402-remove-k-digits) |
 ## Trie
 |  |
 | ------- |
@@ -132,10 +134,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aarushiiii28/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/aarushiiii28/LeetCode/tree/master/0402-remove-k-digits) |
 | [0907-sum-of-subarray-minimums](https://github.com/aarushiiii28/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [2104-sum-of-subarray-ranges](https://github.com/aarushiiii28/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/aarushiiii28/LeetCode/tree/master/0735-asteroid-collision) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/aarushiiii28/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
