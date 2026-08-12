@@ -22,8 +22,11 @@ public:
                 l++;
             }
 
+            if(zeros <= k){
             maxlen = max(maxlen, r-l+1);
+            }
             r++;
+
         }
         return maxlen;
     }
