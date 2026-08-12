@@ -8,7 +8,6 @@ public:
 
         unordered_map<char, int> mpp;
         int max_length = 0;
-        int length;
 
         while(r<n){
 
@@ -16,8 +15,7 @@ public:
                 l = mpp[s[r]] + 1;
             }
 
-            length = r - l + 1;
-            max_length = max(max_length, length);
+            max_length = max(max_length, r - l + 1);
 
             mpp[s[r]] = r;
             r++;
