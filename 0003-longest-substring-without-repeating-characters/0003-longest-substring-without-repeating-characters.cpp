@@ -10,11 +10,11 @@ public:
 
         while (r < n) {
 
-           
+           if(mpp[s[r]] != -1){
             if (mpp[s[r]] >= l) {
                 l = mpp[s[r]] + 1;
             }
-
+           }
             max_length = max(max_length, r - l + 1);
 
         
