@@ -3,7 +3,7 @@ public:
     int characterReplacement(string s, int k) {
 
         int n = s.size();
-        unordered_map<char, int> mpp;
+        vector<int> mpp(26, 0);
         int l = 0, r = 0;
         int maxlen = 0;
         int maxfreq = 0;
@@ -11,14 +11,14 @@ public:
 
         while(r<n){
 
-            mpp[s[r]]++;
+            mpp[s[r]- 'A']++;
 
             len = r - l + 1;
-            maxfreq = max(maxfreq, mpp[s[r]]);
+            maxfreq = max(maxfreq, mpp[s[r] - 'A']);
 
             while((len - maxfreq) > k){
                 
-                mpp[s[l]]--;
+                mpp[s[l] - 'A']--;
                 l++;
 
                 len--;
