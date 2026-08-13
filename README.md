@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/aarushiiii28/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/aarushiiii28/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/aarushiiii28/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aarushiiii28/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2104-sum-of-subarray-ranges](https://github.com/aarushiiii28/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/aarushiiii28/LeetCode/tree/master/0460-lfu-cache) |
 | [0904-fruit-into-baskets](https://github.com/aarushiiii28/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/aarushiiii28/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aarushiiii28/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Linked List
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/aarushiiii28/LeetCode/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/aarushiiii28/LeetCode/tree/master/0048-rotate-image) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aarushiiii28/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/aarushiiii28/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/aarushiiii28/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/aarushiiii28/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aarushiiii28/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -209,4 +213,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/aarushiiii28/LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/aarushiiii28/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/aarushiiii28/LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
