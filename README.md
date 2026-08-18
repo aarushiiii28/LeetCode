@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aarushiiii28/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aarushiiii28/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/aarushiiii28/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/aarushiiii28/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/aarushiiii28/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aarushiiii28/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/aarushiiii28/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/aarushiiii28/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/aarushiiii28/LeetCode/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/aarushiiii28/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/aarushiiii28/LeetCode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/aarushiiii28/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0402-remove-k-digits](https://github.com/aarushiiii28/LeetCode/tree/master/0402-remove-k-digits) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aarushiiii28/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/aarushiiii28/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/aarushiiii28/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/aarushiiii28/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/aarushiiii28/LeetCode/tree/master/0904-fruit-into-baskets) |
