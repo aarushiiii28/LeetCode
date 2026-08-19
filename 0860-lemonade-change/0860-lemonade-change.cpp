@@ -5,7 +5,6 @@ public:
 
         int cnt5 = 0;
         int cnt10 = 0;
-        int cnt20 = 0;
 
         for(int i = 0; i<n; i++){
 
@@ -20,7 +19,6 @@ public:
                 }
             }
             if(bills[i] == 20){
-                cnt20++;
 
                 if(cnt5 > 0 && cnt10 > 0){
                     cnt5--;
