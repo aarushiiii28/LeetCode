@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/aarushiiii28/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/aarushiiii28/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/aarushiiii28/LeetCode/tree/master/0118-pascals-triangle) |
+| [0135-candy](https://github.com/aarushiiii28/LeetCode/tree/master/0135-candy) |
 | [0239-sliding-window-maximum](https://github.com/aarushiiii28/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0455-assign-cookies](https://github.com/aarushiiii28/LeetCode/tree/master/0455-assign-cookies) |
 | [0735-asteroid-collision](https://github.com/aarushiiii28/LeetCode/tree/master/0735-asteroid-collision) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/aarushiiii28/LeetCode/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/aarushiiii28/LeetCode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/aarushiiii28/LeetCode/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/aarushiiii28/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/aarushiiii28/LeetCode/tree/master/0860-lemonade-change) |
