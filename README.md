@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/aarushiiii28/LeetCode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/aarushiiii28/LeetCode/tree/master/0135-candy) |
 | [0239-sliding-window-maximum](https://github.com/aarushiiii28/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0435-non-overlapping-intervals](https://github.com/aarushiiii28/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aarushiiii28/LeetCode/tree/master/0455-assign-cookies) |
 | [0735-asteroid-collision](https://github.com/aarushiiii28/LeetCode/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/aarushiiii28/LeetCode/tree/master/0860-lemonade-change) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/aarushiiii28/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aarushiiii28/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/aarushiiii28/LeetCode/tree/master/0148-sort-list) |
+| [0435-non-overlapping-intervals](https://github.com/aarushiiii28/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aarushiiii28/LeetCode/tree/master/0455-assign-cookies) |
 ## Merge Sort
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aarushiiii28/LeetCode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/aarushiiii28/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/aarushiiii28/LeetCode/tree/master/0118-pascals-triangle) |
+| [0435-non-overlapping-intervals](https://github.com/aarushiiii28/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0907-sum-of-subarray-minimums](https://github.com/aarushiiii28/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Matrix
 |  |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/aarushiiii28/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/aarushiiii28/LeetCode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/aarushiiii28/LeetCode/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/aarushiiii28/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aarushiiii28/LeetCode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/aarushiiii28/LeetCode/tree/master/0860-lemonade-change) |
 ## Range Minimum/Maximum Query
