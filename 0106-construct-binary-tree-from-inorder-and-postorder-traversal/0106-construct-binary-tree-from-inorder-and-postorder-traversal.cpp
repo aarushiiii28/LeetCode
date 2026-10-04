@@ -25,13 +25,19 @@ public:
         if (inorderStart > inorderEnd || postorderStart > postorderEnd) {
             return nullptr;
         }
-        
+
         int rootVal = postorder[postorderEnd];
+
         TreeNode* root = new TreeNode(rootVal);
+
         int inorderRootIndex = index[rootVal];
+
         int leftSubtreeSize = inorderRootIndex - inorderStart;
+
+
         root->left = buildTreeHelper(inorder, postorder, inorderStart, inorderRootIndex - 1, postorderStart, postorderStart + leftSubtreeSize - 1, index);
         root->right = buildTreeHelper(inorder, postorder, inorderRootIndex + 1, inorderEnd, postorderStart + leftSubtreeSize, postorderEnd - 1, index);
+        
         return root;
     }
 };
