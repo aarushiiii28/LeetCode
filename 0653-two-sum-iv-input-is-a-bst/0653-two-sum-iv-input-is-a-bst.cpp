@@ -12,16 +12,26 @@
 class Solution {
 public:
     bool findTarget(TreeNode* root, int k) {
-        set <int> st;
         vector<int> nodes;
         inorder(root, nodes);
 
-        for(auto it : nodes){
-            if(st.find(k-it) != st.end()){
+        int left = 0;
+        int right = nodes.size() - 1;
+
+        while (left < right) {
+            int sum = nodes[left] + nodes[right];
+
+            if (sum == k) {
                 return true;
             }
-            st.insert(it);
+            else if (sum < k) {
+                left++;
+            }
+            else {
+                right--;
+            }
         }
+
         return false;
     }
 
