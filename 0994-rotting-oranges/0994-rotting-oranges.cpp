@@ -1,80 +1,62 @@
+
 class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid) {
         int n = grid.size();
         int m = grid[0].size();
 
-        vector<vector<int>> vis(n, vector<int>(m, 0));
-        queue<pair<int, int>> q;
-        int fresh = 0;
-        int time = 0;
+        int count = 0;
+        int max_time = 0;
 
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == 1) {
-                    fresh++;
+        queue<pair<int, pair<int, int>>> q;
+
+        // Count fresh oranges and push rotten oranges into the queue
+        for(int i = 0; i < n; i++) {
+            for(int j = 0; j < m; j++) {
+                if(grid[i][j] == 2) {
+                    q.push({i, {j, 0}});
                 }
-                else if (grid[i][j] == 2) {
-                    q.push({i, j});
-                    vis[i][j] = 1;
+                else if(grid[i][j] == 1) {
+                    count++;
                 }
             }
         }
 
-        bfs(grid, vis, fresh, time, q);
+        int dr[4] = {1, -1, 0, 0};
+        int dc[4] = {0, 0, 1, -1};
 
-        if (fresh > 0) {
+        while(!q.empty()) {
+            pair<int, pair<int, int>> cur = q.front();
+
+            int i = cur.first;
+            int j = cur.second.first;
+            int t = cur.second.second;
+
+            q.pop();
+
+            max_time = max(max_time, t);
+
+            for(int k = 0; k < 4; k++) {
+                int r = i + dr[k];
+                int c = j + dc[k];
+
+                if(r >= 0 && r < n &&
+                   c >= 0 && c < m &&
+                   grid[r][c] == 1) {
+
+                    grid[r][c] = 2;
+                    count--;
+
+                    q.push({r, {c, t + 1}});
+                }
+            }
+        }
+
+        if(count > 0) {
             return -1;
         }
 
-        return time;
-    }
-
-    void bfs(vector<vector<int>>& grid,
-             vector<vector<int>>& vis,
-             int& fresh,
-             int& time,
-             queue<pair<int, int>>& q) {
-
-        while (!q.empty() && fresh > 0) {
-            int size = q.size();
-
-            for (int i = 0; i < size; i++) {
-                pair<int, int> cur = q.front();
-                int r = cur.first;
-                int c = cur.second;
-                q.pop();
-
-                if (r - 1 >= 0 && grid[r - 1][c] == 1) {
-                    grid[r - 1][c] = 2;
-                    vis[r - 1][c] = 1;
-                    q.push({r - 1, c});
-                    fresh--;
-                }
-
-                if (r + 1 < grid.size() && grid[r + 1][c] == 1) {
-                    grid[r + 1][c] = 2;
-                    vis[r + 1][c] = 1;
-                    q.push({r + 1, c});
-                    fresh--;
-                }
-
-                if (c + 1 < grid[0].size() && grid[r][c + 1] == 1) {
-                    grid[r][c + 1] = 2;
-                    vis[r][c + 1] = 1;
-                    q.push({r, c + 1});
-                    fresh--;
-                }
-
-                if (c - 1 >= 0 && grid[r][c - 1] == 1) {
-                    grid[r][c - 1] = 2;
-                    vis[r][c - 1] = 1;
-                    q.push({r, c - 1});
-                    fresh--;
-                }
-            }
-
-            time++;
-        }
+        return max_time;
     }
 };
+
