@@ -10,6 +10,7 @@ public:
 
         queue<pair<int, pair<int, int>>> q;
 
+        // Count fresh oranges and push rotten oranges into the queue
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < m; j++) {
                 if(grid[i][j] == 2) {
@@ -21,43 +22,33 @@ public:
             }
         }
 
+        int dr[4] = {1, -1, 0, 0};
+        int dc[4] = {0, 0, 1, -1};
+
         while(!q.empty()) {
             pair<int, pair<int, int>> cur = q.front();
 
-            int r = cur.first;
-            int c = cur.second.first;
+            int i = cur.first;
+            int j = cur.second.first;
             int t = cur.second.second;
 
             q.pop();
 
             max_time = max(max_time, t);
 
-            // Up
-            if(r - 1 >= 0 && grid[r - 1][c] == 1) {
-                grid[r - 1][c] = 2;
-                count--;
-                q.push({r - 1, {c, t + 1}});
-            }
+            for(int k = 0; k < 4; k++) {
+                int r = i + dr[k];
+                int c = j + dc[k];
 
-            // Down
-            if(r + 1 < n && grid[r + 1][c] == 1) {
-                grid[r + 1][c] = 2;
-                count--;
-                q.push({r + 1, {c, t + 1}});
-            }
+                if(r >= 0 && r < n &&
+                   c >= 0 && c < m &&
+                   grid[r][c] == 1) {
 
-            // Right
-            if(c + 1 < m && grid[r][c + 1] == 1) {
-                grid[r][c + 1] = 2;
-                count--;
-                q.push({r, {c + 1, t + 1}});
-            }
+                    grid[r][c] = 2;
+                    count--;
 
-            // Left
-            if(c - 1 >= 0 && grid[r][c - 1] == 1) {
-                grid[r][c - 1] = 2;
-                count--;
-                q.push({r, {c - 1, t + 1}});
+                    q.push({r, {c, t + 1}});
+                }
             }
         }
 
