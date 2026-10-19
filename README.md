@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/aarushiiii28/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0435-non-overlapping-intervals](https://github.com/aarushiiii28/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aarushiiii28/LeetCode/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/aarushiiii28/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aarushiiii28/LeetCode/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/aarushiiii28/LeetCode/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/aarushiiii28/LeetCode/tree/master/0860-lemonade-change) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/aarushiiii28/LeetCode/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aarushiiii28/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aarushiiii28/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/aarushiiii28/LeetCode/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/aarushiiii28/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 ## Matrix
 |  |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aarushiiii28/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/aarushiiii28/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/aarushiiii28/LeetCode/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/aarushiiii28/LeetCode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aarushiiii28/LeetCode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/aarushiiii28/LeetCode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/aarushiiii28/LeetCode/tree/master/1020-number-of-enclaves) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/aarushiiii28/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/aarushiiii28/LeetCode/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aarushiiii28/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/aarushiiii28/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aarushiiii28/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aarushiiii28/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aarushiiii28/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
